@@ -1,4 +1,4 @@
 import game
 
 
-only_function("Print hello!")
+game.only_function("Print hello!")
